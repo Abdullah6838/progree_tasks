@@ -4,9 +4,9 @@ This repository contains my work completed during my **Progree Python Internship
 
 ## 📂 Tasks
 
-- **Task 2 :** Core Algorithmic Fibonacci Generation Module
-- **Task 3 :** Automated File Operating & Text-Parsing Script
-- **Task 4 :** Mini Project - Production-Ready Multi-Internt Rule-Based Chatbot
+- **Task 1 :** Core Algorithmic Fibonacci Generation Module
+- **Task 2 :** Automated File Operating & Text-Parsing Script
+- **Task 3 :** Mini Project - Production-Ready Multi-Internt Rule-Based Chatbot
 
 ## 🛠️ Technology
 
